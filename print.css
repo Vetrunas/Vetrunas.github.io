@@ -1,0 +1,17 @@
+
+body {
+    font-family: "Times New Roman", Times, serif;
+}
+
+section {
+    page-break-inside: avoid; 
+}
+
+img, video, audio, iframe {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+}
+    <link rel="stylesheet" type="text/css" href="print.css" media="print">
+
